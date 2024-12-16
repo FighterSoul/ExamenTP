@@ -1,0 +1,9 @@
+C:\Users\MSI\source\repos\ExamenTP\ExamenTP\bin\Debug\ExamenTP.exe.config
+C:\Users\MSI\source\repos\ExamenTP\ExamenTP\bin\Debug\ExamenTP.exe
+C:\Users\MSI\source\repos\ExamenTP\ExamenTP\bin\Debug\ExamenTP.pdb
+C:\Users\MSI\source\repos\ExamenTP\ExamenTP\obj\Debug\ExamenTP.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\ExamenTP\ExamenTP\obj\Debug\ExamenTP.Properties.Resources.resources
+C:\Users\MSI\source\repos\ExamenTP\ExamenTP\obj\Debug\ExamenTP.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\ExamenTP\ExamenTP\obj\Debug\ExamenTP.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\ExamenTP\ExamenTP\obj\Debug\ExamenTP.exe
+C:\Users\MSI\source\repos\ExamenTP\ExamenTP\obj\Debug\ExamenTP.pdb
